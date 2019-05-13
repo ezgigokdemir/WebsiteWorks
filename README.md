@@ -1,2 +1,2 @@
 # WebsiteWorks
-There are my website works created with Bootstrap, jQuery in this repository.
+There are my website works designed with Bootstrap, jQuery in this repository.
